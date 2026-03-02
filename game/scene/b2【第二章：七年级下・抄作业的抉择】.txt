@@ -1,0 +1,12 @@
+;
+对话;
+intro:作为数学课代表收作业时，你撞见林晓冉正在抄同桌的数学题 ——  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+setTextbox:on;
+她咬着嘴唇，笔尖飞快移动，眼神带着慌乱。;
+你没有当场揭穿她;
+intro:班会课上 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+班主任:抄作业现象严重，有谁要反映情况？;
+changeBg:同桌.png;
+setTextbox:hide;
+setVar:b=4
+choose:A. 举手揭露：“老师，林晓冉刚才在抄作业” :【第三章：八年级・暗无天日的孤立】/b4 3.1.txt|B. 私下提醒：课后拉她到走廊：“下次不会可以问我，别抄了” :【第三章：八年级・暗无天日的孤立】/b5 3.2.txt|C. 沉默不语：低头假装没听见 :【第三章：八年级・暗无天日的孤立】/b6 3.3.txt;

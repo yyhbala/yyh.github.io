@@ -1,0 +1,5 @@
+
+这个月你准备做什么;
+setTextbox:hide;
+choose:求导:日常/求导.txt|玩原神:日常/玩原神.txt|聊天:日常/聊天.txt|学习:日常/学习.txt|看玉足:选择场景文件;
+setTextbox:on;

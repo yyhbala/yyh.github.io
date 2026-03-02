@@ -1,0 +1,3 @@
+;
+intro:桂子错过了女同学 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

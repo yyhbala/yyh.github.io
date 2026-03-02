@@ -1,0 +1,5 @@
+
+intro:林晓冉愣了愣，脸颊泛红：“谢谢… 我下次不会了”（好感度 + 8）。之后她会主动问你数学题，你们关系缓和，但班会课上班主任仍批评了抄作业现象，有人猜测是你告密（孤立程度减轻）。  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+setVar:b=5
+setVar:a=a+5
+changeScene:场景转换.txt;

@@ -1,0 +1,9 @@
+Game_name:我的桂子;
+Game_key:10a9add3f807284;
+Title_img:学校.webp;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Show_panic:true;
+Package_name:;
+Description:;
+Game_Logo:同桌.png;

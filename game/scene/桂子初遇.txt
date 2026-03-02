@@ -1,0 +1,24 @@
+
+changeBg:学校.webp;
+ -sayPlaceHolder;
+setTextbox:on;
+changeFigure:桂子基础.png -left;
+miniAvatar:none;
+广播:请同学们及时进班，请同学们及时进班;
+miniAvatar:桂子头.png;
+changeFigure:none -left;
+桂子:我去，要迟到了;
+changeBg: 选择背景图片;
+桂子:怎么只有第一排了;
+桂子:还是个女生;
+桂子:算了，坐吧;
+intro:阳光落在邻座女生的发梢，她正低头整理课本，睫毛纤长，侧脸带着柔和的轮廓 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:同桌.png;
+setTextbox:hide;
+setVar:a=30
+intro:你犹豫着坐下，指尖碰到桌沿时，她抬头看了你一眼，嘴角弯了弯：“你也是这个班的呀？”  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+setVar:b=1
+setVar:b=2
+choose:A. 咧嘴笑：“对啊！我叫桂子，以后请多指教～”（好感度 + 5） :通用加好感度.txt|B. 紧张低头：“嗯… 嗯”（好感度不变） :场景转换.txt|C. 直接吐槽：“居然只剩第一排，也太倒霉了吧”（好感度-3）:通用减好感度.txt - 3，触发「直率但失礼」分支） :选择场景文件=true;
+miniAvatar:none;
+角色名，留空以继承上句:对话;

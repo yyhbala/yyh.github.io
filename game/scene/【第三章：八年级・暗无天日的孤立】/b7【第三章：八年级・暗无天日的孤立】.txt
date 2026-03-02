@@ -1,0 +1,8 @@
+
+intro:八年级的班级乱象如期而至：压缩瓶盖喷人、打架、辱骂声不绝于耳 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+setTextbox:on;
+miniAvatar:none;
+你成了重点攻击对象，衣服被泼水，课本被涂鸦，政治成绩一路下滑（63 分预警）。  ;
+林晓冉偶尔会偷偷看你，但没上前帮忙。 ;
+setTextbox:hide;
+choose:A. 默默忍受：把所有精力放在学习上，无视嘲讽 :【第三章：八年级・暗无天日的孤立】/A.txt|B. 尝试沟通：找班长说 “能不能别这样” :【第三章：八年级・暗无天日的孤立】/B.txt|选项:【第三章：八年级・暗无天日的孤立】/C.txt;

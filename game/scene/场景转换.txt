@@ -1,0 +1,5 @@
+changeScene:b1【第一章：七年级上・悸动与裂痕】.txt -when=b==2;
+changeScene:b2【第二章：七年级下・抄作业的抉择】.txt -when=b==3;
+changeScene:【第三章：八年级・暗无天日的孤立】/b7【第三章：八年级・暗无天日的孤立】.txt -when=b==4;
+changeScene:【第三章：八年级・暗无天日的孤立】/b7【第三章：八年级・暗无天日的孤立】.txt -when=b==5;
+changeScene:【第三章：八年级・暗无天日的孤立】/b7【第三章：八年级・暗无天日的孤立】.txt -when=b==6;

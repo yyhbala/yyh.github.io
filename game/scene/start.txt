@@ -1,0 +1,13 @@
+; 初始场景，以及特效演示
+intro:你好|欢迎来到桂子的初中 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+getUserInput:name -title=请问桂子的女主是谁 -buttonText=yes;
+changeBg:学校.webp;
+changeFigure:桂子基础.png -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+桂子:我是桂子;
+; 模版修改演示
+桂子:这是我在初中的第一天  -fontSize=large;
+miniAvatar:桂子头.png;
+桂子:我要去装逼了;
+setTextbox:hide;
+choose:找小学同学装逼:桂子初遇.txt|去新教室装逼:桂子错过.txt;

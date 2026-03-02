@@ -1,0 +1,5 @@
+
+intro:林晓冉当场对你竖中指，眼神冰冷，之后再也没和你说过话（好感度降至 5）。班里开始有人觉得你 “死板”“打小报告”，孤立的种子悄然埋下。  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+setVar:b=4
+setVar:a=5
+changeScene:场景转换.txt;

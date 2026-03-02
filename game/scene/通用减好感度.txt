@@ -1,0 +1,2 @@
+setVar:a=a-5
+changeScene:场景转换.txt;
